@@ -1,0 +1,5 @@
+chafa : to view img
+mpv: to play aud
+cat >>: to add new line in file
+vim: to edit filecp : for copy file, use with -i for overwrite/replace
+mv : use to move/rename file
